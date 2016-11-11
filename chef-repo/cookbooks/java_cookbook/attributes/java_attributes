@@ -1,0 +1,1 @@
+default['git_install']['git_installer'] = "git_installer"
